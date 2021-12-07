@@ -23,9 +23,7 @@ public class Example2 {
     }
 }
 
-class Num {
-    int? a;
-}
+class Num {}
 
 class Int extends Num {}
 
@@ -35,3 +33,5 @@ class LongInt  extends Int {}
 //git test3
 //git test4 push
 //git test5 fetch
+
+class Empty {}
