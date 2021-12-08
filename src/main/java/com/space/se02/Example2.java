@@ -35,3 +35,5 @@ class LongInt  extends Int {}
 //git test5 fetch
 
 class Empty {}
+
+class Empty1 {}
