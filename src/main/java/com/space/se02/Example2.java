@@ -34,4 +34,10 @@ class LongInt  extends Int {
         this.x = x;
         System.out.println(x);
     }
+
+    //second
+    public void numberPlus(int x) {
+        this.x = x + 1;
+        System.out.println(this.x);
+    }
 }
